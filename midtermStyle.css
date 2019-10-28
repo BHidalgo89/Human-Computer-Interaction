@@ -1,0 +1,19 @@
+body{
+  background-color: linen;
+}
+
+h1{ 
+  color: red;
+  margin-left: 42%;
+  font-size: 50px;
+}
+
+h2{
+  font-size: 30px;
+}
+
+.draggable{
+	cursor: move;
+	stroke-width: 3;
+	stroke:rgb(0,0,0);
+}
